@@ -44,7 +44,7 @@ for hints on how to proceed in this case.
 
    ::
 
-       sudo apt-get install git g++ python numpy libeigen3-dev zlib1g-dev libqt4-opengl-dev libgl1-mesa-dev
+       sudo apt-get install git g++ python-numpy libeigen3-dev zlib1g-dev libqt4-opengl-dev libgl1-mesa-dev
 
 -  RPM-based distros (Fedora, CentOS):
 
